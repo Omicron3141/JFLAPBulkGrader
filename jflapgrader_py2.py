@@ -380,10 +380,7 @@ Some directories and names...
 def currentRunTests(cmdPrefix, testFile, solution, timeLimit):
   #The students file is the basename of the test file with the jflap extension
   studentFile = splitext(testFile)[0] + '.jff'
-  turing = False
-  if "tm" in studentFile:
-      turing = True
-  print(turing)
+  turing = True
 
   try:
     #

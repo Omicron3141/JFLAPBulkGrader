@@ -1,8 +1,8 @@
 {
     "tests": [
         {
-            "output": "TM passed most test cases.\nHint: Check behavior by stepping through failed input.\nTest input 0 failed.\nTest input empty failed.", 
-            "score": 11.5, 
+            "output": "TM failed too many test cases.\nHint: Check behavior by stepping through failed input.\nTest input 11 failed.\nTest input 1 failed.\nTest input 0110 failed.\nTest input 10001 failed.\nTest input 010 failed.\nTest input 000 failed.\nTest input 111 failed.\nTest input 101 failed.\nTest input 1001 failed.\nTest input 0110110 failed.", 
+            "score": 0, 
             "max_score": 12
         }
     ]
