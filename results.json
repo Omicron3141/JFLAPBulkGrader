@@ -1,0 +1,9 @@
+{
+    "tests": [
+        {
+            "output": "TM passed most test cases.\nHint: Check behavior by stepping through failed input.\nTest input 0 failed.\nTest input empty failed.", 
+            "score": 11.5, 
+            "max_score": 12
+        }
+    ]
+}
